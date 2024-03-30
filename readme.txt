@@ -66,5 +66,5 @@ https://github.com/maor1614/PythonAndroTask
 
 images of the project -
 
-![alt text](https://ibb.co/nrjyBqB "Android Studio")
+<img src="https://i.ibb.co/nrjyBqB/Screenshot-9.jpg" width="100" height="100">
 
