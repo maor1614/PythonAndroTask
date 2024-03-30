@@ -61,3 +61,10 @@ Before running the script, ensure you have the following installed and set up on
 [Maor Shiri] - [0545528704]
 
 https://github.com/maor1614/PythonAndroTask
+
+
+
+images of the project -
+
+![alt text](https://ibb.co/nrjyBqB "Android Studio")
+
