@@ -64,7 +64,3 @@ https://github.com/maor1614/PythonAndroTask
 
 
 
-images of the project - Screenshot_9.jpg
-
-![Screenshot_9.jpg](Screenshot_9.jpg)
-
