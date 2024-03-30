@@ -62,5 +62,9 @@ Before running the script, ensure you have the following installed and set up on
 
 https://github.com/maor1614/PythonAndroTask
 
+images of the process-
+Android Device from android studio
+![Screenshot_9](https://github.com/maor1614/PythonAndroTask/assets/65109115/ee5388f3-2c12-4c35-b10a-118cf9fafa62)
+
 
 
