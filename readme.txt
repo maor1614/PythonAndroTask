@@ -64,7 +64,7 @@ https://github.com/maor1614/PythonAndroTask
 
 
 
-images of the project -
+images of the project - Screenshot_9.jpg
 
-<img src="https://i.ibb.co/nrjyBqB/Screenshot-9.jpg" width="100" height="100">
+![Screenshot_9.jpg](Screenshot_9.jpg)
 
